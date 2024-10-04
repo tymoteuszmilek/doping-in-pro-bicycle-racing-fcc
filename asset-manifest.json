@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/doping-in-pro-bicycle-racing-fcc/static/css/main.654993d6.css",
+    "main.js": "/doping-in-pro-bicycle-racing-fcc/static/js/main.2d3c3b97.js",
+    "static/js/453.49a7d20b.chunk.js": "/doping-in-pro-bicycle-racing-fcc/static/js/453.49a7d20b.chunk.js",
+    "index.html": "/doping-in-pro-bicycle-racing-fcc/index.html",
+    "main.654993d6.css.map": "/doping-in-pro-bicycle-racing-fcc/static/css/main.654993d6.css.map",
+    "main.2d3c3b97.js.map": "/doping-in-pro-bicycle-racing-fcc/static/js/main.2d3c3b97.js.map",
+    "453.49a7d20b.chunk.js.map": "/doping-in-pro-bicycle-racing-fcc/static/js/453.49a7d20b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.654993d6.css",
+    "static/js/main.2d3c3b97.js"
+  ]
+}
